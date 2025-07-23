@@ -20,27 +20,27 @@ const Contact = ({ theme }) => {
   const contactInfo = [
     {
       icon: <FaEnvelope />,
-      text: 'pedapatisathwik@gmail.com',
+      text: 'Gmail',
       link: 'mailto:pedapatisathwik@gmail.com',
     },
     {
       icon: <FaGithub />,
-      text: 'github.com/sathwikpedapati',
+      text: 'GitHub',
       link: 'https://github.com/sathwikpedapati',
     },
     {
       icon: <FaLinkedin />,
-      text: 'linkedin.com/in/sathwik-pedapati',
+      text: 'LinkedIn',
       link: 'https://www.linkedin.com/in/sathwik-pedapati/',
     },
     {
       icon: <FaCode />,
-      text: 'codechef.com/users/sathwi_02',
+      text: 'CodeChef',
       link: 'https://www.codechef.com/users/sathwi_02',
     },
     {
       icon: <FaTwitter />,
-      text: 'x.com/PedapatiSathwik',
+      text: 'Twitter',
       link: 'https://x.com/PedapatiSathwik',
     },
     {
