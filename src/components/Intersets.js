@@ -68,7 +68,7 @@ const Interests = ({ theme }) => {
           <ul style={listStyle}>
             <li>Learning New Technologies</li>
             <li>Open Source</li>
-            <li>Music</li>
+            <li>Listening to Music</li>
           </ul>
         </Card>
       </div>
