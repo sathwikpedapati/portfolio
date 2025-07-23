@@ -1,13 +1,12 @@
 import React, { useState } from 'react';
-import './Navbar.css';
+import Contact from './Contact';
 import About from './About';
 import Education from './Education';
 import Experience from './Experience';
 import Projects from './Projects';
 import Skills from './Skills';
 import Achievements from './Achievements';
-import Interests from './Intersets';
-import Contact from './Contact';
+import Interests from './Interests';
 
 const Navbar = () => {
   const [theme, setTheme] = useState('light');
@@ -29,6 +28,9 @@ const Navbar = () => {
     backgroundColor: 'rgb(99, 138, 90)',
     height: '60px',
     color: '#fff',
+    position: 'sticky',
+    top: 0,
+    zIndex: 1000,
   };
 
   return (
@@ -37,11 +39,9 @@ const Navbar = () => {
         className="navbar d-flex justify-content-between align-items-center px-3"
         style={navbarStyle}
       >
-      <span className="navbar-brand mb-0 h1 text-white">
-   <i class="fa-solid fa-s"></i>athwik's Portfolio
-</span>
-
-
+        <span className="navbar-brand mb-0 h1 text-white">
+          <i className="fa-solid fa-s"></i>athwik's Portfolio
+        </span>
 
         <button
           onClick={toggleTheme}
@@ -73,7 +73,7 @@ const Navbar = () => {
         <Skills theme={theme} />
         <Achievements theme={theme} />
         <Interests theme={theme} />
-        <Contact theme={theme}/>
+        <Contact theme={theme} />
       </div>
     </div>
   );
