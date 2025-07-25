@@ -1,4 +1,12 @@
 import React, { useState } from 'react';
+import './Navbar.css';
+import About from './About';
+import Education from './Education';
+import Experience from './Experience';
+import Projects from './Projects';
+import Skills from './Skills';
+import Achievements from './Achievements';
+import Interests from './Intersets';
 import Contact from './Contact';
 
 const Navbar = () => {
