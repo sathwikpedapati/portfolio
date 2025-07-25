@@ -30,7 +30,7 @@ const Contact = ({ theme }) => {
     },
     {
       icon: <FaLinkedin />,
-      text: 'LinkedIn',
+      text: 'Linked In',
       link: 'https://www.linkedin.com/in/sathwik-pedapati/',
     },
     {
