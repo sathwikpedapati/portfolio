@@ -37,12 +37,13 @@ const Navbar = () => {
         className="navbar d-flex justify-content-between align-items-center px-3"
         style={navbarStyle}
       >
-        <span className="navbar-brand mb-0 h1 text-white">
-          <strong style={{ color: isDark ? '#3498db' : '#2980b9' }}>S</strong>
-          athwik's{' '}
-          <strong style={{ color: isDark ? '#2ecc71' : '#27ae60' }}>P</strong>
-          ortfolio
-        </span>
+<span className="navbar-brand mb-0 h1">
+  <strong style={{ color: 'black' }}>S</strong>
+  athwik's{' '}
+  <strong style={{ color: 'black' }}>P</strong>
+  ortfolio
+</span>
+
 
         <button
           onClick={toggleTheme}
