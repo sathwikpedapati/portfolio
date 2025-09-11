@@ -113,7 +113,7 @@ const Projects = ({ theme }) => {
                         icon={<PlayCircleOutlined />}
                         style={{ textDecoration: 'none' }}
                       >
-                        Live Demo
+                        Live
                       </Button>
                       <Button
                         type="default"
@@ -122,7 +122,7 @@ const Projects = ({ theme }) => {
                         icon={<GithubOutlined />}
                         style={{ textDecoration: 'none' }}
                       >
-                        GitHub
+                        Code
                       </Button>
                     </div>
                   </div>
