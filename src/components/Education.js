@@ -43,7 +43,7 @@ const Education = ({ theme }) => {
         style={{
           fontSize: '1.8rem',
           marginBottom: '1.5rem',
-          color: 'rgb(99, 138, 90)',
+          color: 'rgb(47, 79, 79)',
           textAlign: 'center',
         }}
       >
