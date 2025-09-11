@@ -41,7 +41,7 @@ const projectData = [
     stack: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Socket.io', 'Cloudinary', 'Tailwind CSS'],
     live: 'https://talk-easy-zjl5.vercel.app/login',
     github: 'https://github.com/sathwikpedapati/Talk-Easy',
-    image: '/TalkEasy.jpg',
+    image: '/TalkEasy.png',
   },
 ];
 
