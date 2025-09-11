@@ -5,7 +5,7 @@ import { GithubOutlined, PlayCircleOutlined } from '@ant-design/icons';
 const projectData = [
   {
     title: 'Address Book📒',
-    description: 'A full-stack address management app with user authentication, CRUD operations, and responsive UI using Bootstrap.',
+    description: 'A full-stack address management app with user authentication and CRUD operations.',
     stack: ['HTML', 'CSS', 'Bootstrap', 'EJS', 'Node.js', 'MongoDB', 'Passport.js'],
     live: 'https://address-book-mv3s.onrender.com/alladdress',
     github: 'https://github.com/sathwikpedapati/Address-Book',
@@ -13,7 +13,7 @@ const projectData = [
   },
   {
     title: 'Recipe Box 🍰',
-    description: 'A full-stack recipe-sharing platform allowing users to explore, upload, and manage recipes. Built with JWT auth, Cloudinary, and responsive UI.',
+    description: 'A recipe-sharing platform allowing users to explore, upload, and manage recipes.',
     stack: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Cloudinary'],
     live: 'https://recipe-heaven-five.vercel.app/',
     github: 'https://github.com/sathwikpedapati/Recipe-Heaven',
@@ -21,7 +21,7 @@ const projectData = [
   },
   {
     title: 'News Today 📰',
-    description: 'A full-stack news aggregator offering real-time categorized news with theme toggle, profile features, and Cloudinary image integration.',
+    description: 'A news aggregator offering real-time categorized news with profile features and theme toggle.',
     stack: ['ReactJS', 'Node.js', 'Express.js', 'MongoDB', 'Ant Design', 'Cloudinary'],
     live: 'https://news-six-smoky.vercel.app/login',
     github: 'https://github.com/sathwikpedapati/News',
@@ -29,7 +29,7 @@ const projectData = [
   },
   {
     title: 'Money Track 💰',
-    description: 'A full-stack personal finance tracker with authentication, transaction history, and visualized analytics to manage expenses effectively.',
+    description: 'A personal finance tracker with transaction history and visualized analytics.',
     stack: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Passport.js', 'Ant Design'],
     live: 'https://budget-buddy-ashen.vercel.app/login',
     github: 'https://github.com/sathwikpedapati/Budget-Buddy',
@@ -37,7 +37,7 @@ const projectData = [
   },
   {
     title: 'TalkEasy🌐',
-    description: 'A full-stack real-time chat app using Socket.IO for live messaging, JWT-based authentication, and a clean UI with image sharing.',
+    description: 'A real-time chat app with live messaging, authentication, and image sharing.',
     stack: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Socket.io', 'Cloudinary', 'Tailwind CSS'],
     live: 'https://talk-easy-zjl5.vercel.app/login',
     github: 'https://github.com/sathwikpedapati/Talk-Easy',
