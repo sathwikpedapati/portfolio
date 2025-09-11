@@ -17,7 +17,7 @@ const projectData = [
     stack: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Cloudinary'],
     live: 'https://recipe-heaven-five.vercel.app/',
     github: 'https://github.com/sathwikpedapati/Recipe-Heaven',
-    image: '/recipe.png',
+    image: '/Recipe-Box.png',
   },
   {
     title: 'News Today 📰',
@@ -25,7 +25,7 @@ const projectData = [
     stack: ['ReactJS', 'Node.js', 'Express.js', 'MongoDB', 'Ant Design', 'Cloudinary'],
     live: 'https://news-six-smoky.vercel.app/login',
     github: 'https://github.com/sathwikpedapati/News',
-    image: '/News.webp',
+    image: '/NewsToday.png',
   },
   {
     title: 'Money Track 💰',
@@ -41,7 +41,7 @@ const projectData = [
     stack: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Socket.io', 'Cloudinary', 'Tailwind CSS'],
     live: 'https://talk-easy-zjl5.vercel.app/login',
     github: 'https://github.com/sathwikpedapati/Talk-Easy',
-    image: '/chat.jpg',
+    image: '/TalkEasy.jpg',
   },
 ];
 
