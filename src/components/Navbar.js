@@ -39,10 +39,11 @@ const Navbar = () => {
       >
 <span className="navbar-brand mb-0 h1">
   <strong style={{ color: 'black' }}>S</strong>
-  athwik's{' '}
+  <span style={{ color: '#fff' }}>athwik's </span>
   <strong style={{ color: 'black' }}>P</strong>
-  ortfolio
+  <span style={{ color: '#fff' }}>ortfolio</span>
 </span>
+
 
 
         <button
