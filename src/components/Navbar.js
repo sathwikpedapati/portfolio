@@ -37,9 +37,19 @@ const Navbar = () => {
         className="navbar d-flex justify-content-between align-items-center px-3"
         style={navbarStyle}
       >
-      <span className="navbar-brand mb-0 h1 text-white">
-   <i class="fa-solid fa-s"></i>athwik's Portfolio
+     <span className="navbar-brand mb-0 h1">
+  <i
+    className="fa-solid fa-star"
+    style={{ color: isDark ? '#f1c40f' : '#e67e22', marginRight: '6px' }}
+  ></i>
+  <span>
+    <span style={{ color: isDark ? '#3498db' : '#2980b9', fontWeight: '700' }}>S</span>
+    athwik's{' '}
+    <span style={{ color: isDark ? '#2ecc71' : '#27ae60', fontWeight: '700' }}>P</span>
+    ortfolio
+  </span>
 </span>
+
 
 
 
