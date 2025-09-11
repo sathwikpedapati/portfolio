@@ -38,7 +38,7 @@ const Navbar = () => {
         style={navbarStyle}
       >
 <span className="navbar-brand mb-0 h1">
-  <strong>S</strong>
+  <strong style={{ color: '#fff' }}>S</strong>
   <span style={{ color: '#fff' }}>athwik's Space🌐</span>
 </span>
         <button
