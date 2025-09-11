@@ -64,7 +64,7 @@ const Achievements = ({ theme }) => {
             <strong>•</strong> CodeChef <strong>Gold Badge</strong> – Solved 500+ problems.
           </Paragraph>
           <Paragraph style={{ color: textColor }}>
-            <strong>•</strong> Completed <strong>5+ freelance web apps</strong> in production.
+            <strong>•</strong> Completed <strong>10+ freelance web apps</strong> in production.
           </Paragraph>
         </Card>
 
