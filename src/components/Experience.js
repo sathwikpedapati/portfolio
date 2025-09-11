@@ -13,7 +13,7 @@ const Experience = ({ theme }) => {
       location: '',
       points: [
         'Built full-stack web apps using React.js, Node.js, and MongoDB.',
-        'Designed responsive UIs with Ant Design, improving usability by 30%.',
+        'Designed responsive UIs with Ant Design, improving usability.',
         'Developed REST APIs with JWT authentication for secure data exchange.',
       ],
     },
