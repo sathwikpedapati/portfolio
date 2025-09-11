@@ -16,7 +16,7 @@ const About = ({ theme }) => {
       <div style={styles.container}>
         <div style={styles.imageContainer}>
           <img
-            src="/sath.jpg"
+            src="/raju.jpg"
             alt="Sathwik Pedapati"
             style={styles.image}
           />
