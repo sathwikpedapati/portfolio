@@ -57,7 +57,7 @@ const Projects = ({ theme }) => {
         style={{
           textAlign: 'center',
           marginBottom: '2rem',
-          color: 'rgb(99, 138, 90)',
+          color: 'rgb(47, 79, 79)',
           fontSize: '1.8rem',
           fontWeight: 'bold',
         }}
