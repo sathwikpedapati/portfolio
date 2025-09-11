@@ -20,7 +20,7 @@ const projectData = [
     image: '/Recipe-Box.png',
   },
   {
-    title: 'News Today 📰',
+    title: 'News Today📰',
     description: 'A news aggregator offering real-time categorized news with profile features and theme toggle.',
     stack: ['ReactJS', 'Node.js', 'Express.js', 'MongoDB', 'Ant Design', 'Cloudinary'],
     live: 'https://news-six-smoky.vercel.app/login',
