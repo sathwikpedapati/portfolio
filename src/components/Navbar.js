@@ -39,7 +39,7 @@ const Navbar = () => {
       >
 <span className="navbar-brand mb-0 h1">
   <strong>S</strong>
-  <span>athwik Pedapati – Web Dev</span>
+  <span>athwik's WorkSpace</span>
 </span>
         <button
           onClick={toggleTheme}
