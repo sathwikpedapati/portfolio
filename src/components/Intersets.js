@@ -23,7 +23,7 @@ const Interests = ({ theme }) => {
         level={2}
         style={{
           textAlign: 'center',
-          color: 'rgb(99, 138, 90)',
+          color: 'rgb(47, 79, 79)',
         }}
       >
         Languages & Interests
