@@ -8,7 +8,7 @@ const Experience = ({ theme }) => {
 
   const experienceData = [
     {
-      role: 'Full Stack Developer - Freelance Projects',
+      role: 'Freelance Projects',
       duration: 'Jan 2024 – Present',
       location: '',
       points: [
