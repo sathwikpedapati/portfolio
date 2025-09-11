@@ -4,7 +4,7 @@ import { GithubOutlined, PlayCircleOutlined } from '@ant-design/icons';
 
 const projectData = [
   {
-    title: '📦 Address Book',
+    title: 'Address Book📒',
     description: 'A full-stack address management app with user authentication, CRUD operations, and responsive UI using Bootstrap.',
     stack: ['HTML', 'CSS', 'Bootstrap', 'EJS', 'Node.js', 'MongoDB', 'Passport.js'],
     live: 'https://address-book-mv3s.onrender.com/alladdress',
@@ -12,7 +12,7 @@ const projectData = [
     image: '/address.jpeg',
   },
   {
-    title: '🍽 Recipe Heaven',
+    title: 'Recipe Box 🍰',
     description: 'A full-stack recipe-sharing platform allowing users to explore, upload, and manage recipes. Built with JWT auth, Cloudinary, and responsive UI.',
     stack: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Cloudinary'],
     live: 'https://recipe-heaven-five.vercel.app/',
@@ -20,7 +20,7 @@ const projectData = [
     image: '/recipe.png',
   },
   {
-    title: '📰 News Today',
+    title: 'News Today 📰',
     description: 'A full-stack news aggregator offering real-time categorized news with theme toggle, profile features, and Cloudinary image integration.',
     stack: ['ReactJS', 'Node.js', 'Express.js', 'MongoDB', 'Ant Design', 'Cloudinary'],
     live: 'https://news-six-smoky.vercel.app/login',
@@ -28,7 +28,7 @@ const projectData = [
     image: '/News.webp',
   },
   {
-    title: '💰 Money Track',
+    title: 'Money Track 💰',
     description: 'A full-stack personal finance tracker with authentication, transaction history, and visualized analytics to manage expenses effectively.',
     stack: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Passport.js', 'Ant Design'],
     live: 'https://budget-buddy-ashen.vercel.app/login',
@@ -36,11 +36,11 @@ const projectData = [
     image: '/expense.webp',
   },
   {
-    title: '💬 Chat Connect',
+    title: 'TalkEasy🌐',
     description: 'A full-stack real-time chat app using Socket.IO for live messaging, JWT-based authentication, and a clean UI with image sharing.',
     stack: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Socket.io', 'Cloudinary', 'Tailwind CSS'],
-    live: 'https://chattzy-app.vercel.app/login',
-    github: 'https://github.com/sathwikpedapati/ChattzyApp',
+    live: 'https://talk-easy-zjl5.vercel.app/login',
+    github: 'https://github.com/sathwikpedapati/Talk-Easy',
     image: '/chat.jpg',
   },
 ];
@@ -62,7 +62,7 @@ const Projects = ({ theme }) => {
           fontWeight: 'bold',
         }}
       >
-        🌍 Featured Projects
+        🌍 Personal Projects
       </h2>
       <Row gutter={[24, 24]}>
         {projectData.map((project, index) => (
@@ -106,7 +106,7 @@ const Projects = ({ theme }) => {
                         ))}
                       </div>
                     </div>
-                    <div style={{ marginTop: '1rem', display: 'flex', gap: '10px' }}>
+                    <div style={{ marginTop: '1rem', display: 'flex', gap: '8px' }}>
                       <Button
                         type="primary"
                         href={project.live}
