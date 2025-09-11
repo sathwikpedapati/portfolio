@@ -12,7 +12,7 @@ const projectData = [
     image: '/Address-Book.png',
   },
   {
-    title: 'Recipe Box 🍰',
+    title: 'Recipe Box🍴',
     description: 'A recipe-sharing platform allowing users to explore, upload, and manage recipes.',
     stack: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Cloudinary'],
     live: 'https://recipe-heaven-five.vercel.app/',
@@ -28,7 +28,7 @@ const projectData = [
     image: '/NewsToday.png',
   },
   {
-    title: 'Money Track 💰',
+    title: 'Money Track💸',
     description: 'A personal finance tracker with transaction history and visualized analytics.',
     stack: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Passport.js', 'Ant Design'],
     live: 'https://budget-buddy-ashen.vercel.app/login',
