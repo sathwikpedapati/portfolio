@@ -14,7 +14,7 @@ const Footer = ({ theme }) => {
 
   return (
     <footer style={footerStyle}>
-      <p>Thank you for visiting! &copy; {new Date().getFullYear()} Developed by Sathwik Pedapati</p>
+      <p>&copy; {new Date().getFullYear()} Developed by Sathwik Pedapati</p>
     </footer>
   );
 };
