@@ -4,7 +4,7 @@ const Footer = ({ theme }) => {
   const isDark = theme === 'dark';
 
   const footerStyle = {
-    backgroundColor: isDark ? '#111' : 'rgb(99, 138, 90)',
+    backgroundColor: isDark ? '#111' : 'rgb(47, 79, 79)',
     color: '#fff',
     padding: '0.2rem',
     textAlign: 'center',
