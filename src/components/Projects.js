@@ -9,7 +9,7 @@ const projectData = [
     stack: ['HTML', 'CSS', 'Bootstrap', 'EJS', 'Node.js', 'MongoDB', 'Passport.js'],
     live: 'https://address-book-mv3s.onrender.com/alladdress',
     github: 'https://github.com/sathwikpedapati/Address-Book',
-    image: '/address.jpeg',
+    image: '/Address-Book.png',
   },
   {
     title: 'Recipe Box 🍰',
@@ -33,7 +33,7 @@ const projectData = [
     stack: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Passport.js', 'Ant Design'],
     live: 'https://budget-buddy-ashen.vercel.app/login',
     github: 'https://github.com/sathwikpedapati/Budget-Buddy',
-    image: '/expense.webp',
+    image: '/MoneyTrack.png',
   },
   {
     title: 'TalkEasy🌐',
