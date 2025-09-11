@@ -22,7 +22,7 @@ const About = ({ theme }) => {
           />
         </div>
         <div style={styles.textContainer}>
-          <h2 style={{ ...styles.heading, color: 'rgb(99, 138, 90)' }}>
+          <h2 style={{ ...styles.heading, color: 'rgb(47, 79, 79)' }}>
             About Me
           </h2>
           <p style={styles.paragraph}>
@@ -109,13 +109,13 @@ const styles = {
   },
   icon: {
     marginRight: '0.5rem',
-    color: 'rgb(99, 138, 90)',
+    color: 'rgb(47, 79, 79)',
   },
   resumeBtn: {
     display: 'flex',
     alignItems: 'center',
     padding: '0.5rem 0',
-    color: 'rgb(99, 138, 90)',
+    color: 'rgb(47, 79, 79)',
     textDecoration: 'none',
     fontSize: '0.95rem',
     fontWeight: '500',
