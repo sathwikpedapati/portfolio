@@ -38,14 +38,9 @@ const Navbar = () => {
         style={navbarStyle}
       >
 <span className="navbar-brand mb-0 h1">
-  <strong style={{ color: 'black' }}>S</strong>
-  <span style={{ color: '#fff' }}>athwik's </span>
-  <strong style={{ color: 'black' }}>P</strong>
-  <span style={{ color: '#fff' }}>ortfolio</span>
+  <strong>S</strong>
+  <span>athwik Pedapati – Web Dev</span>
 </span>
-
-
-
         <button
           onClick={toggleTheme}
           style={{
