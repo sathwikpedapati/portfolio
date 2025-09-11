@@ -61,7 +61,7 @@ const Projects = ({ theme }) => {
           fontSize: '1.8rem',
         }}
       >
-        🌍 Personal Projects
+         Personal Projects
       </h2>
       <Row gutter={[24, 24]}>
         {projectData.map((project, index) => (
