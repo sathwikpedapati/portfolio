@@ -59,7 +59,6 @@ const Projects = ({ theme }) => {
           marginBottom: '2rem',
           color: 'rgb(47, 79, 79)',
           fontSize: '1.8rem',
-          fontWeight: 'bold',
         }}
       >
         🌍 Personal Projects
