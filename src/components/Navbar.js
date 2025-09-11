@@ -26,7 +26,7 @@ const Navbar = () => {
   };
 
   const navbarStyle = {
-    backgroundColor: 'rgb(99, 138, 90)',
+    backgroundColor: 'rgb(47, 79, 79)',
     height: '60px',
     color: '#fff',
   };
