@@ -14,7 +14,7 @@ const Achievements = ({ theme }) => {
 
   return (
     <div style={{ padding: '2rem', background: 'transparent', color: textColor }}>
-      <Title level={2} style={{ textAlign: 'center', color: 'rgb(99, 138, 90)' }}>
+      <Title level={2} style={{ textAlign: 'center', color: 'rgb(47, 79, 79)' }}>
         Professional Highlights
       </Title>
 
