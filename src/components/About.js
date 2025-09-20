@@ -39,7 +39,7 @@ const About = ({ theme }) => {
               Chodavaram, Anakapalle
             </p>
             <a
-              href="https://drive.google.com/file/d/1BI3MUQT2b6SbtGGFIfoXYKxpuph4Q6Rd/view"
+              href="https://drive.google.com/file/d/1BI3MUQT2b6SbtGGFIfoXYKxpuph4Q6Rd/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               style={styles.resumeBtn}
