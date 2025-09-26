@@ -8,22 +8,15 @@ const Experience = ({ theme }) => {
 
   const experienceData = [
     {
-      role: 'Full Stack Developer - Freelance Projects',
-      duration: 'Jan 2024 – Present',
-      location: '',
-      points: [
-        'Built full-stack web apps using React.js, Node.js, and MongoDB.',
-        'Designed responsive UIs with Ant Design, improving usability.',
-        'Developed REST APIs with JWT authentication for secure data exchange.',
-      ],
-    },
-    {
-      role: 'Volunteer Teacher - Tribal Welfare School',
+      role: 'Volunteer Teacher - APSRWS Tribal Welfare School',
       duration: 'June 2024',
-      location: 'Visakhapatnam, India',
+      location: 'Markivalasa, Visakhapatnam, India',
       points: [
         'Delivered STEM sessions using digital tools in underserved classrooms.',
         'Increased student engagement by organizing interactive learning events.',
+        'Mentored students in basic computer literacy and problem-solving skills.',
+        'Collaborated with local educators to design engaging teaching modules.',
+        'Helped bridge the digital divide by introducing students to technology-driven learning.',
       ],
     },
   ];
